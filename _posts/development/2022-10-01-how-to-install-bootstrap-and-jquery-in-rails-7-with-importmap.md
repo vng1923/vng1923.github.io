@@ -5,6 +5,13 @@ date:   2022-10-01 07:22:05 -0700
 categories: [Development]
 path: "development"
 tags: ["Ruby on Rails"]
+math: true
+mermaid: true
+image:
+  path: /assets/img/posts/2022/rails-7-bootstrap-jquery-importmap.jpg
+  width: 800
+  height: 500
+  alt: Implement Bootstrap & jQuery in Rails 7
 ---
 
 
