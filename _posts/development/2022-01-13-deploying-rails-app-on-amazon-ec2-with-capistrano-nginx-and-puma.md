@@ -183,7 +183,11 @@ You’re all done! Now, anytime you want to push an update, all you have to do i
 # Terminal: Development
 cap production deploy
 ```
-#### I also created a video to show it. You can check it out on Youtube here:
+
+<br />
+
+> I also created a video to show it. You can check it out on Youtube here:
+{: .prompt-info }
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3OJcUvnixS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
