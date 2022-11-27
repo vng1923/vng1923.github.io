@@ -33,7 +33,7 @@ github:
   username: crabcodes             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: crabcodes            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -43,7 +43,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://www.youtube.com/@crabcodes
-    - https://twitter.com/username      # change to your twitter homepage
+    - https://twitter.com/crabcodes      # change to your twitter homepage
     - https://github.com/crabcodes       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
