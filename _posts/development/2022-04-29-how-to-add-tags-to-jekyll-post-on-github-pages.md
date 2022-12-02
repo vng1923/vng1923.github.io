@@ -137,5 +137,5 @@ Above is the way currently I'm using to add tags to jekyll posts in Github Pages
 > I also created a video to show it. You can check it out on Youtube here:
 {: .prompt-info }
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3uGBHbQnXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BGCa46-70PU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />

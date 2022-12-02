@@ -189,5 +189,5 @@ cap production deploy
 > I also created a video to show it. You can check it out on Youtube here:
 {: .prompt-info }
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3OJcUvnixS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E2o2u7Rc0h0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br />
