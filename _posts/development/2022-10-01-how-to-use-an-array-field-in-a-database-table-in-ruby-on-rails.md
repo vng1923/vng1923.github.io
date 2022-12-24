@@ -14,9 +14,20 @@ mermaid: true
 #   alt: How to use an array field in a database table in Ruby on Rails
 ---
 
-#### In Ruby on Rails, you can use an array field in a database table by defining it as a text data type and using the array: true option in your migration.
+In Ruby on Rails, you can use an array field in a database table by defining it as a text data type and using the array: true option in your migration.
 
-#### For example, suppose you want to create a tags field in your posts table that will store an array of tags for each post. You can create this field with the following migration:
+For example, suppose you want to create a tags field in your posts table that will store an array of tags for each post. You can create this field with the following migration:
+
+```markdown
+# Table: posts
+
+id | title     | tags
+---+------------+----------------
+1  | My Post    | {ruby, rails}
+2  | Another    | {ruby}
+3  | Post       | {rails, programming}
+
+ ```
 
 ```ruby
 class AddTagsToPosts < ActiveRecord::Migration[6.0]
@@ -25,7 +36,7 @@ class AddTagsToPosts < ActiveRecord::Migration[6.0]
   end
 end
 ```
-#### Then, in your Post model, you can access the tags field as an array:
+Then, in your Post model, you can access the tags field as an array:
 
 ```ruby
 class Post < ApplicationRecord
@@ -42,7 +53,7 @@ post.add_tag('ruby')
 post.tags # => ['ruby']
 ```
 
-#### You can also perform array operations on the field using Active Record's where method. For example:
+You can also perform array operations on the field using Active Record's where method. For example:
 ```ruby
 # Find all posts with the tag 'ruby'
 Post.where('tags @> ARRAY[?]', 'ruby')
@@ -51,6 +62,6 @@ Post.where('tags @> ARRAY[?]', 'ruby')
 Post.where('tags @> ARRAY[?, ?)', 'ruby', 'rails')
 ```
 
-#### I hope this helps! Let me know if you have any questions.
+I hope this helps! Let me know if you have any questions.
 
 <br />
