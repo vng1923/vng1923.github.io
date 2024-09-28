@@ -14,12 +14,12 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Chicago
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: CrabCodes                          # the main title
+title: Vu Nguyen                          # the main title
 
 tagline: A development blog   # it will display as the sub-title
 
@@ -27,19 +27,19 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://crabcodes.github.io'
+url: 'https://vng1923.github.io'
 
 github:
-  username: crabcodes             # change to your github username
+  username: vng1923             # change to your github username
 
 twitter:
-  username: crabcodes            # change to your twitter username
+  username: 1982s_com            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Ben Nguyen
-  email: crabcodes@gmail.com             # change to your email address
+  email: vng1923@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://www.youtube.com/@crabcodes
